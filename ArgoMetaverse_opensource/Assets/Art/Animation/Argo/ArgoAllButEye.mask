@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ArgoAllButEye
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Bones
+    m_Weight: 1
+  - m_Path: Bones/Base
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/L_arm
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/L_arm/Bicep_2
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/L_arm/Bicep_2/L_Hand
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/L_arm/Bicep_2/L_Hand/Tip_8
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/Mouth
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/Mouth/Eyes
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/Mouth/Eyes/Tip_9
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/R_arm
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/R_arm/Bicep
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/R_arm/Bicep/R_Hand
+    m_Weight: 1
+  - m_Path: Bones/Base/Waist/R_arm/Bicep/R_Hand/Tip_7
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1/T1_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1/T1_2/Joint_1_6
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1/T1_2/Joint_1_6/Joint_2_6
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1/T1_2/Joint_1_6/Joint_2_6/Joint_3_6
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1/T1_2/Joint_1_6/Joint_2_6/Joint_3_6/Bend_6
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1/T1_2/Joint_1_6/Joint_2_6/Joint_3_6/Bend_6/Joint_5_6
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T1/T1_2/Joint_1_6/Joint_2_6/Joint_3_6/Bend_6/Joint_5_6/Tip_6
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2/T2_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2/T2_2/Joint_1_5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2/T2_2/Joint_1_5/Joint_2_5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2/T2_2/Joint_1_5/Joint_2_5/Joint_3_5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2/T2_2/Joint_1_5/Joint_2_5/Joint_3_5/Bend_5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2/T2_2/Joint_1_5/Joint_2_5/Joint_3_5/Bend_5/Joint_5_5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T2/T2_2/Joint_1_5/Joint_2_5/Joint_3_5/Bend_5/Joint_5_5/Tip_5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3/T3_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3/T3_2/Joint_1_4
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3/T3_2/Joint_1_4/Joint_2_4
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3/T3_2/Joint_1_4/Joint_2_4/Joint_3_4
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3/T3_2/Joint_1_4/Joint_2_4/Joint_3_4/Bend_4
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3/T3_2/Joint_1_4/Joint_2_4/Joint_3_4/Bend_4/Joint_5_4
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T3/T3_2/Joint_1_4/Joint_2_4/Joint_3_4/Bend_4/Joint_5_4/Tip_4
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4/T4_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4/T4_2/Joint_1
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4/T4_2/Joint_1/Joint_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4/T4_2/Joint_1/Joint_2/Joint_3
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4/T4_2/Joint_1/Joint_2/Joint_3/Bend
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4/T4_2/Joint_1/Joint_2/Joint_3/Bend/Joint_5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T4/T4_2/Joint_1/Joint_2/Joint_3/Bend/Joint_5/Tip
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5/T5_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5/T5_2/Joint_1_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5/T5_2/Joint_1_2/Joint_2_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5/T5_2/Joint_1_2/Joint_2_2/Joint_3_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5/T5_2/Joint_1_2/Joint_2_2/Joint_3_2/Bend_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5/T5_2/Joint_1_2/Joint_2_2/Joint_3_2/Bend_2/Joint_5_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T5/T5_2/Joint_1_2/Joint_2_2/Joint_3_2/Bend_2/Joint_5_2/Tip_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6/T6_2
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6/T6_2/Joint_1_3
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6/T6_2/Joint_1_3/Joint_2_3
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6/T6_2/Joint_1_3/Joint_2_3/Joint_3_3
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6/T6_2/Joint_1_3/Joint_2_3/Joint_3_3/Bend_3
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6/T6_2/Joint_1_3/Joint_2_3/Joint_3_3/Bend_3/Joint_5_3
+    m_Weight: 1
+  - m_Path: Bones/Leg_Control/T6/T6_2/Joint_1_3/Joint_2_3/Joint_3_3/Bend_3/Joint_5_3/Tip_3
+    m_Weight: 1
+  - m_Path: Subdivision_Surface
+    m_Weight: 1
+  - m_Path: Subdivision_Surface/Body
+    m_Weight: 1
+  - m_Path: Waist_Control
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/Iris_Move___Blink
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/L_Eye
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/L_Eye/blink
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/L_Eye/blink/control_rotation_3
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/L_Eye/eye
+    m_Weight: 0
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/R_Eye
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/R_Eye/blink_2
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/R_Eye/blink_2/control_rotation_4
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eye_Move/R_Eye/eye_2
+    m_Weight: 0
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eyelid_1
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eyelid_1/Blink
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eyelid_1/Top
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eyelids_2
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eyelids_2/control_rotation
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Eye_Control/Eyelids_2/control_rotation_2
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Helmet
+    m_Weight: 1
+  - m_Path: Waist_Control/Mouth_Control/Teeth
+    m_Weight: 1
