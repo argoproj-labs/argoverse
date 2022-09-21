@@ -1,36 +1,29 @@
-# Argo Metaverse (open source)
+# ArgoVerse
 
 ## Vision
 
-Built in Unity, the Argo Metaverse is an open-world metaverse hub for the Argo Project community.
-The Argo project, in its turn, is an open source tool for Kubernetes to run workflows, manage clusters, and do GitOps right.
-However, the Argo community activities encompass more than just writing software. 
-With the Argo Metaverse, beyond the usual atmospheres of GitHub and websites, the Argo community engagement is taken, quite literally, to a new world!
+The ArgoVerse is a social space for the Argo Community, driven by GitOps!
+* Celebrate shared milestones and experiences
+* Promote diversity and inclusion
 
-As the first step into the development of this amazing community hub, Argo Metaverse v1.0 does not configure itself as a multi-user and fully interactive online metaverse yet.
-Rather, it serves as a prototype which showcases an initial vision for the Argo Metaverse and the incredible potential it holds.
+The ArgoVerse is an experiment in immersive virtual user experiences for Argo.
+* Shared persistent digital workspaces
+* Frictionless engagement and collaboration between teams and users
+
+The initial implementation of the ArgoVerse as not a multi-user environemnt.
+Rather, it serves as a prototype which showcases an initial vision for the ArgoVerse.
 
 Note that the open source distribution of the project here available does not include diverse assets from third-party sources, mainly the Unity Asset Store, which fall under certain end-user agreements that prevent open distribution (see 3.3 - Plugins).
 To abide by such terms, these assets have been removed from the open source version of the project, and different scenes were created to facilitate development without them. (See Documentation for more information)
-
-
-## History
-
-We started this project in mid-June, 2022 for internal use.
-
-We open-sourced it on September 16, 2022.
-
 
 ## Installation
 
 We’re using these technologies: Unity version 2021.3.4f1 LTS
 (see Documentation for information on other requirements)
 
-The actual Unity project folder is: argo-metaverse/ArgoMetaverse_opensource
+The actual Unity project folder is: argoverse/ArgoMetaverse_opensource
 
 Once the editor above is installed and the repository is cloned to your machine, you have to "Open" the project ("Add project from disk)" through Unity Hub selecting the ArgoMetaverse_opensource folder inside the root repository folder.
-
-Enjoy!
 
 ### Hacking backend
 
@@ -45,7 +38,3 @@ Comments follow [Google's style guide](http://google-styleguide.googlecode.com/s
 ## Versioning
 
 Version numbering follows the [Semantic versioning](http://semver.org/) approach.
-
-## License
-
-We’re using open source licensing 
